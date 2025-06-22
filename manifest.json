@@ -1,7 +1,7 @@
 [
   {
     "name": "Mój Model GRU",
-    "fileName": "baccarat_gruKris",
+    "fileName": "baccGrKris.tflite",
     "url": "https://github.com/kicikici1/baccarat-models/raw/main/baccGrKris.tflite",
     "type": "GRU",
     "seqLength": 0
