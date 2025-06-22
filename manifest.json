@@ -4,7 +4,7 @@
     "fileName": "BaccGrKris.tflite",
     "url": "https://github.com/kicikici1/baccarat-models/raw/main/BaccGrKris.tflite",
     "type": "GRU",
-    "version": 1,
+    "version": 2,
     "seqLength": 0
   },
   {
