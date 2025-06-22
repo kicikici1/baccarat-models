@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mój Model GRU",
+    "fileName": "baccarat_gru.tflite",
+    "url": "https://github.com/kicikici1/baccarat-models/raw/main/baccarat_gru.tflite",
+    "type": "GRU",
+    "seqLength": 0
+  },
+  {
+    "name": "Mój Model LSTM",
+    "fileName": "baccarat_lstm.tflite",
+    "url": "https://github.com/kicikici1/baccarat-models/raw/main/baccarat_lstm.tflite",
+    "type": "LSTM",
+    "seqLength": 0
+  }
+]
