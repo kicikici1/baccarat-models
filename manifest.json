@@ -4,6 +4,7 @@
     "fileName": "BaccGrKris.tflite",
     "url": "https://github.com/kicikici1/baccarat-models/raw/main/BaccGrKris.tflite",
     "type": "GRU",
+    "version": 1,
     "seqLength": 0
   },
   {
@@ -11,6 +12,7 @@
     "fileName": "baccarat_lstm.tflite",
     "url": "https://github.com/kicikici1/baccarat-models/raw/main/baccarat_lstm.tflite",
     "type": "LSTM",
+    "version": 1,
     "seqLength": 0
   }
 ]
